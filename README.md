@@ -3,7 +3,7 @@
 
 # Установка (Powershell)  
 Клонировать репозиторий и перейти в его директорию:  
-git clone https://github.com/vvadik/api_final_yatube  
+git clone https://github.com/vvadikk/api_final_yatube  
 cd api_final_yatube  
 Cоздать и активировать виртуальное окружение:  
 python -m venv env  
