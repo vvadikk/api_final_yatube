@@ -9,7 +9,7 @@ Cоздать и активировать виртуальное окружен�
 python -m venv env  
 .\venv\Scripts\Activate.ps1  
 Установить зависимости из requirements.txt:  
-python3 -m pip install --upgrade pip  
+python -m pip install --upgrade pip  
 pip install -r requirements.txt  
 Выполнить миграции:  
 python yatube_api\manage.py migrate  
